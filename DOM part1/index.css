@@ -1,0 +1,22 @@
+body{
+    background-color: blanchedalmond;
+}
+button{
+    background-color: black;
+    color: wheat;
+}
+div{
+    background-color: rgb(174, 100, 8);
+    padding: 10px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: bold;
+    font-size: 20px;
+}
+.para{
+    background-color: rgb(129, 78, 10);
+   
+}
+.para1{
+    color: white
+}
